@@ -3,6 +3,9 @@
 
 PartyMode is a real-time collaborative music queue app built for events, parties, and gatherings. Users can join a shared Spotify session using a unique code, request songs, and upvote or downvote tracks to shape the playlist  — all powered by the Spotify Web API.
 
+![Screenshot 2025-07-02 at 19 56 39](https://github.com/user-attachments/assets/87e2c855-588d-4089-86b3-9090b99350d5)
+
+
 ### 🔥 What It Does:
 - 🎵 Collaborative DJing: Let everyone at the party contribute to the vibe.
 
@@ -13,6 +16,8 @@ PartyMode is a real-time collaborative music queue app built for events, parties
 - 🔄 Live Sync: Queue updates instantly using WebSocket.
 
 - 🎧 Spotify Playback: Control playback via a connected Spotify Premium account.
+
+<img width="1589" alt="Screenshot 2025-07-02 at 16 10 48" src="https://github.com/user-attachments/assets/00c6b46d-455d-4344-84b1-2e31bcb0c300" />
 
 ## Quick Start (5 minutes)
 

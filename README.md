@@ -1,5 +1,18 @@
 # 🚀 PartyMode - Setup Guide
-## 🏅 UIUC Research Park 2025 Hackathon Winner (1st Place)
+## 🏆 UIUC Research Park 2025 Hackathon Winner (1st Place)
+
+PartyMode is a real-time collaborative music queue app built for events, parties, and gatherings. Users can join a shared Spotify session using a unique code, request songs, and upvote or downvote tracks to shape the playlist  — all powered by the Spotify Web API.
+
+### 🔥 What It Does:
+- 🎵 Collaborative DJing: Let everyone at the party contribute to the vibe.
+
+- 📱 Join with a Code: Users join sessions via a unique code on any device.
+
+- ⬆️⬇️ Vote-Based Queue: Songs move up or down based on real-time votes.
+
+- 🔄 Live Sync: Queue updates instantly using WebSocket.
+
+- 🎧 Spotify Playback: Control playback via a connected Spotify Premium account.
 
 ## Quick Start (5 minutes)
 

@@ -1,4 +1,4 @@
-# 🚀 PartyMode - Setup Guide
+# PartyMode - Setup Guide
 ## 🏆 UIUC Research Park 2025 Hackathon Winner (1st Place)
 
 PartyMode is a real-time collaborative music queue app built for events, parties, and gatherings. Users can join a shared Spotify session using a unique code, request songs, and upvote or downvote tracks to shape the playlist  — all powered by the Spotify Web API.
@@ -6,16 +6,16 @@ PartyMode is a real-time collaborative music queue app built for events, parties
 ![Screenshot 2025-07-02 at 19 56 39](https://github.com/user-attachments/assets/87e2c855-588d-4089-86b3-9090b99350d5)
 
 
-### 🔥 What It Does:
-- 🎵 Collaborative DJing: Let everyone at the party contribute to the vibe.
+### What It Does:
+- Collaborative DJing: Let everyone at the party contribute to the vibe.
 
-- 📱 Join with a Code: Users join sessions via a unique code on any device.
+- Join with a Code: Users join sessions via a unique code on any device.
 
-- ⬆️⬇️ Vote-Based Queue: Songs move up or down based on real-time votes.
+- Vote-Based Queue: Songs move up or down based on real-time votes.
 
-- 🔄 Live Sync: Queue updates instantly using WebSocket.
+- Live Sync: Queue updates instantly using WebSocket.
 
-- 🎧 Spotify Playback: Control playback via a connected Spotify Premium account.
+- Spotify Playback: Control playback via a connected Spotify Premium account.
 
 <img width="1589" alt="Screenshot 2025-07-02 at 16 10 48" src="https://github.com/user-attachments/assets/00c6b46d-455d-4344-84b1-2e31bcb0c300" />
 
@@ -52,13 +52,13 @@ npm run dev
 Visit `http://127.0.0.1:3001` and start voting!
 
 ### Key Points
-- ✅ Real-time voting updates
-- ✅ Spotify Web API integration
-- ✅ Mobile-responsive design
-- ✅ Session management with unique codes
-- ✅ Live participant tracking using WebSocket
+- Real-time voting updates
+- Spotify Web API integration
+- Mobile-responsive design
+- Session management with unique codes
+- Live participant tracking using WebSocket
 
-## 🎯 Business Viability Points
+## Business Viability Points
 
 ### Market Size
 - **Corporate Events**: $2B market
@@ -75,7 +75,7 @@ Visit `http://127.0.0.1:3001` and start voting!
 - **Democratized selection** (vs. one person controlling)
 - **Social engagement** (vs. passive listening)
 
-## 🛠 Technical Architecture
+## Technical Architecture
 
 ### Backend (Node.js/Express)
 - **Spotify Web API integration**
@@ -89,31 +89,7 @@ Visit `http://127.0.0.1:3001` and start voting!
 - **Spotify authentication flow**
 - **Mobile-first approach**
 
-### Key Features
-- ✅ Spotify Premium playback control
-- ✅ Real-time vote synchronization
-- ✅ Session persistence
-- ✅ Cross-device compatibility
-- ✅ Vote analytics
-
-## 📊 Success Metrics
-
-### User Engagement
-- Session duration
-- Votes per session
-- Participant retention
-
-### Business Metrics
-- User acquisition cost
-- Revenue per session
-- Customer lifetime value
-
-### Technical Metrics
-- API response time
-- WebSocket connection stability
-- Error rates
-
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 1. **Spotify API errors**: Check credentials and redirect URI

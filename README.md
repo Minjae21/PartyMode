@@ -1,5 +1,5 @@
 # 🚀 PartyMode - Setup Guide
-## 🏅 University of Illinois Research Park 2025 Hackathon Winner (1st Place)
+## 🏅 UIUC Research Park 2025 Hackathon Winner (1st Place)
 
 ## Quick Start (5 minutes)
 
